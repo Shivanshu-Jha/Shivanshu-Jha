@@ -8,10 +8,9 @@ I'm a Full Stack Developer. I build complete web products from UI to API to data
 
 ## 🔭 What I'm up to
 
-- 💼 Open to entry-level **Full Stack Developer** opportunities
 - 🛠️ Building and polishing full-stack projects with Next.js and Node.js
-- 🧠 Practicing **Data Structures & Algorithms** and **System Design (LLD)**
 - 📚 Deepening my backend skills with Express, MongoDB and REST API design
+- 🧠 Practicing **Data Structures & Algorithms** and **System Design (LLD)**
 
 ---
 

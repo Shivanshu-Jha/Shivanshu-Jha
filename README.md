@@ -73,7 +73,7 @@ I'm a Full Stack Developer. I build complete web products from UI to API to data
 ## 📫 Let's Connect
 
 - 📧 Email: [shivanshu1221@gmail.com](mailto:shivanshu1221@gmail.com)
-- 💼 LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/)
-- 📍 Based in Bihar, India
+- 💼 LinkedIn: [Shivanshu Shekhar Jha](www.linkedin.com/in/shivanshu-jha)
+
 
 > *I like building things end to end, and I'm always happy to talk about code, projects and opportunities.*

@@ -62,12 +62,6 @@ I'm a Full Stack Developer. I build complete web products from UI to API to data
 
 ---
 
-## 📊 GitHub Stats
-
-![Shivanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivanshu-Jha&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu-Jha&layout=compact)
-
----
 
 ## 📫 Let's Connect
 

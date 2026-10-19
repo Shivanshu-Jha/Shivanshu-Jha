@@ -54,11 +54,11 @@ I'm a Full Stack Developer. I build complete web products from UI to API to data
 | Project | Description | Tech |
 | --- | --- | --- |
 | [**Imaginify**](https://github.com/Shivanshu-Jha/Imaginify) · [Live](https://imaginify-opal-kappa.vercel.app) | AI SaaS image editor with restore, generative fill, object remove/recolor and background removal, plus a Stripe-powered credit system | Next.js, MongoDB, Clerk, Stripe, Cloudinary AI, Zod |
-| [**PrepWise**](https://github.com/Shivanshu-Jha/PrepWise_AI_Mock_Interview) | AI mock interview platform with a voice agent and structured, validated feedback | Next.js, Firebase, Gemini API, Vapi, Zod |
+| [**PrepWise**](https://github.com/Shivanshu-Jha/PrepWise_AI_Mock_Interview) · [Live](https://prepwise-ai-mock-interview-one.vercel.app) | AI mock interview platform with a voice agent and structured, validated feedback | Next.js, Firebase, Gemini API, Vapi, Zod |
 | [**PingUp**](https://github.com/Shivanshu-Jha/PingUp) · [Live](https://ping-up-ruddy.vercel.app/) | Social media platform with posts, stories, connections and messaging | React, Express, MongoDB, Clerk, ImageKit, Redux |
-| [**CoinPulse**](https://github.com/Shivanshu-Jha/CoinPulse) | Crypto tracker with market data, trending coins, candlestick charts and a converter | Next.js, TypeScript, CoinGecko API |
-| [**SJBlog**](https://github.com/Shivanshu-Jha/SJBlog) | Blogging platform with an admin dashboard for managing posts and comments | React, Express, MongoDB, ImageKit, Gemini |
-| [**Sorting Visualizer**](https://github.com/Shivanshu-Jha/SortingVisualizer) | Interactive visualizer comparing Bubble, Selection, Insertion, Merge, Quick and Heap sort | React, Tailwind CSS |
+| [**CoinPulse**](https://github.com/Shivanshu-Jha/CoinPulse) · [Live](https://coinpulse-kappa-six.vercel.app/) | Crypto tracker with market data, trending coins, candlestick charts and a converter | Next.js, TypeScript, CoinGecko API |
+| [**SJBlog**](https://github.com/Shivanshu-Jha/SJBlog) · [Live](https://sj-blog-ten.vercel.app/) | Blogging platform with an admin dashboard for managing posts and comments | React, Express, MongoDB, ImageKit, Gemini |
+| [**Sorting Visualizer**](https://github.com/Shivanshu-Jha/SortingVisualizer) · [Live](https://sorting-visualizer-zib2.vercel.app/) | Interactive visualizer comparing Bubble, Selection, Insertion, Merge, Quick and Heap sort | React, Tailwind CSS |
 
 ---
 
